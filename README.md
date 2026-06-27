@@ -4,7 +4,7 @@ A lightweight and responsive social media web application built using HTML, CSS,
 
 ## 🌐 Live Demo
 
-🔗 https://aathibarath.github.io/blinkX/
+🔗 https://aathibarath.github.io/CodeAlpha_SocialMediaPlatform/
 
 ## Overview
 
